@@ -1,6 +1,6 @@
 def new_hash
   Hash.new
-  Array.new
+
 end
 
 def my_hash
