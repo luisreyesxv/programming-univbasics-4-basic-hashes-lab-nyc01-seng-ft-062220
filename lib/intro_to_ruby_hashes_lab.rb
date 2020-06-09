@@ -14,5 +14,5 @@ end
 
 def id_hash_generator(number)
   fresh_hash ={:id => number}
-  
+
 end
